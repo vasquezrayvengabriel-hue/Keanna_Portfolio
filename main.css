@@ -309,6 +309,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 22px;
+    position: relative;
 }
 
 .timeline-block {
@@ -618,4 +619,5 @@ a.rolodex-node:hover {
     .hero-details h1 {
         font-size: 2.5rem;
     }
-}
+       }
+   
